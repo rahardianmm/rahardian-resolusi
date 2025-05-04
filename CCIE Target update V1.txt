@@ -1,7 +1,8 @@
 Certificate
+- CCNA Devnet
 - CCNP Enterprise
 - CCNP Service Provider
-- CCIE ENT / SP
+- CCIE Enterprise / Service Provider
 
 Time
 - CCNA          ( 2026 )
