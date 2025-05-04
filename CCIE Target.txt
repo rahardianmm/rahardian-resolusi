@@ -1,4 +1,5 @@
 Certificate
+- CCNA Devnet
 - CCNP Enterprise
 - CCNP Service Provider
 - CCIE Enterprise / Service Provider
