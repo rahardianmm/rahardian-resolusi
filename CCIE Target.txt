@@ -1,11 +1,11 @@
 Certificate
+- CCNA
 - CCNP Enterprise
 - CCNP Service Provider
 - CCIE Enterprise / Service Provider
 
 Time
 - CCNA          ( 2026 )
-- CCNA DEVNET   ( 2026 ) 
 - CCNP ENCOR    ( 2027 )
 - CCNP ENARSI   ( 2027 )
 - CCNP SPCORE   ( 2028 )
