@@ -1,0 +1,8 @@
+Cost
+- CCNA          ( 3m )
+- CCNA DEVNET   ( 3m )
+- CCNP ENCOR    ( 7m )
+- CCNP ENARSI   ( 4m )
+- CCNP SPCORE   ( 7m )
+- CCNP SPRI     ( 4m )
+- CCIE ENT / SP ( 30m )
