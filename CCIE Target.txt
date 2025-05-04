@@ -1,0 +1,13 @@
+Certificate
+- CCNP Enterprise
+- CCNP Service Provider
+- CCIE ENT / SP
+
+Time
+- CCNA          ( 2026 )
+- CCNA DEVNET   ( 2026 ) 
+- CCNP ENCOR    ( 2027 )
+- CCNP ENARSI   ( 2027 )
+- CCNP SPCORE   ( 2028 )
+- CCNP SPRI     ( 2028 )
+- CCIE ENT/SP   ( 2029 )
