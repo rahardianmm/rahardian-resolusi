@@ -1,2 +1,2 @@
-# rahardian-resolusi
-Resolusi saya di 2025
+# rahardian-resolutions
+My Resolutions in 2025
